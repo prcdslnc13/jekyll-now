@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: UGH Splines in Draftsight
+published: true
 ---
 ## UGH Splines
 
